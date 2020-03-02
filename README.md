@@ -17,6 +17,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [11、AI笔记: 计算机视觉之图像分割：视觉算法开发步骤和使用OpenCV完成图像分割](./contents/11.md)
 - [12、AI笔记: 计算机视觉之基于Hough变换的直线检测](./contents/12.md)
 - [13、AI笔记: 计算机视觉之基于Harris角点检测](./contents/13.md)
+- [14、AI笔记: 计算机视觉之SIFT特征检测](./contents/14.md)
 
 # 其他
 
