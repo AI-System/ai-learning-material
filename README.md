@@ -18,8 +18,9 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [12、AI笔记: 计算机视觉之基于Hough变换的直线检测](./contents/12.md)
 - [13、AI笔记: 计算机视觉之基于Harris角点检测](./contents/13.md)
 - [14、AI笔记: 计算机视觉之SIFT特征检测: 尺度空间、二维高斯函数、高斯金字塔](./contents/14.md)
+- [15、AI笔记: 计算机视觉之SIFT特征检测: 关键点定位、关键点特征描述](./contents/15.md)
 
 # 其他
 
-- [数学公式在线预览](//mirrors.tuna.tsinghua.edu.cn/CTAN/info/symbols/math/maths-symbols.pdf)
-- [数学公式文件本仓库下载](./assets/maths-symbols.pdf)
+- [数学公式LaTeX在线预览](//mirrors.tuna.tsinghua.edu.cn/CTAN/info/symbols/math/maths-symbols.pdf)
+- [数学公式LaTeX文件本仓库下载](./assets/maths-symbols.pdf)
