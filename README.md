@@ -19,6 +19,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [13、AI笔记: 计算机视觉之基于Harris角点检测](./contents/13.md)
 - [14、AI笔记: 计算机视觉之SIFT特征检测: 尺度空间、二维高斯函数、高斯金字塔](./contents/14.md)
 - [15、AI笔记: 计算机视觉之SIFT特征检测: 关键点定位、关键点特征描述](./contents/15.md)
+- [16、AI笔记: 计算机视觉之ORB特征检测](./contents/16.md)
 
 # 其他
 
