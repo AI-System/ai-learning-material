@@ -21,6 +21,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [15、AI笔记: 计算机视觉之SIFT特征检测: 关键点定位、关键点特征描述](./contents/15.md)
 - [16、AI笔记: 计算机视觉之ORB特征检测](./contents/16.md)
 - [17、AI笔记: 计算机视觉之角点检测示例](./contents/17.md)
+- [18、AI笔记: Ubuntu下进行深度学习GPU环境的搭建](./contents/18.md)
 
 # 其他
 
