@@ -24,6 +24,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [18、AI笔记: Ubuntu下进行深度学习GPU环境的搭建](./contents/18.md)
 - [19、AI笔记: 运动估计之背景建模](./contents/19.md)
 - [20、AI笔记: 光流估计](./contents/20.md)
+- [21、AI笔记: 运动估计、光流估计综合示例](./contents/21.md)
 
 # 其他
 
