@@ -25,6 +25,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [19、AI笔记: 运动估计之背景建模](./contents/19.md)
 - [20、AI笔记: 光流估计](./contents/20.md)
 - [21、AI笔记: 运动估计、光流估计综合示例](./contents/21.md)
+- [22、AI笔记: 机器学习](./contents/22.md)
 
 # 其他
 
