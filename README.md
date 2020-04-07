@@ -26,6 +26,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [20、AI笔记: 光流估计](./contents/20.md)
 - [21、AI笔记: 运动估计、光流估计综合示例](./contents/21.md)
 - [22、AI笔记: 机器学习之监督学习，非监督学习，强化学习](./contents/22.md)
+- [23、AI笔记: 关于回归、线性回归、预测残差、残差平方和](./contents/23.md)
 
 # 其他
 
