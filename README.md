@@ -28,6 +28,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [22、AI笔记: 机器学习之监督学习，非监督学习，强化学习](./contents/22.md)
 - [23、AI笔记: 关于回归、线性回归、预测残差、残差平方和](./contents/23.md)
 - [24、AI笔记: 损失函数之L1损失、L2损失、Huber损失](./contents/24.md)
+- [25、AI笔记: 损失函数的概率解释](./contents/25.md)
 
 # 其他
 
