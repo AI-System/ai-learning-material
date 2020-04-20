@@ -31,6 +31,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [25、AI笔记: 损失函数的概率解释](./contents/25.md)
 - [26、AI笔记: 过拟合和欠拟合、相关案例、机器学习中常用正则项](./contents/26.md)
 - [27、AI笔记: 带正则的线性回归模型](./contents/27.md)
+- [28、AI笔记: 正则的概率解释](./contents/28.md)
 
 # 其他
 
