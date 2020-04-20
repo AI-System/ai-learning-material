@@ -30,6 +30,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [24、AI笔记: 损失函数之L1损失、L2损失、Huber损失](./contents/24.md)
 - [25、AI笔记: 损失函数的概率解释](./contents/25.md)
 - [26、AI笔记: 过拟合和欠拟合、相关案例、机器学习中常用正则项](./contents/26.md)
+- [27、AI笔记: 带正则的线性回归模型](./contents/27.md)
 
 # 其他
 
