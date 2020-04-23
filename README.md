@@ -33,6 +33,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [27、AI笔记: 带正则的线性回归模型](./contents/27.md)
 - [28、AI笔记: 正则的概率解释](./contents/28.md)
 - [29、AI笔记: 线性回归模型优化求解](./contents/29.md)
+- [30、AI笔记: 线性回归模型梯度下降法求解](./contents/30.md)
 
 # 其他
 
