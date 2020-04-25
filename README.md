@@ -36,6 +36,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [30、AI笔记: 线性回归模型梯度下降法求解](./contents/30.md)
 - [31、AI笔记: 线性回归模型坐标轴下降求解](./contents/31.md)
 - [32、AI笔记: 回归模型性能评价指标](./contents/32.md)
+- [33、AI笔记: 交叉验证与模型评估](./contents/33.md)
 
 # 其他
 
