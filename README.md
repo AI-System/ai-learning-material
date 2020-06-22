@@ -37,6 +37,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [31、AI笔记: 线性回归模型坐标轴下降求解](./contents/31.md)
 - [32、AI笔记: 回归模型性能评价指标](./contents/32.md)
 - [33、AI笔记: 交叉验证与模型评估](./contents/33.md)
+- [34、AI笔记: 数学基础之集合与函数](./contents/34.md)
 
 # 其他
 
