@@ -40,6 +40,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [34、AI笔记: 数学基础之集合与函数](./contents/34.md)
 - [35、AI笔记: 数学基础之反函数和6个基本初等函数](./contents/35.md)
 - [36、AI笔记: 数学基础之直线、圆和方程](./contents/36.md)
+- [37、AI笔记: 数学基础之数列与不等式](./contents/37.md)
 
 # 其他
 
