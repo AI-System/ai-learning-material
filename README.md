@@ -39,6 +39,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [33、AI笔记: 交叉验证与模型评估](./contents/33.md)
 - [34、AI笔记: 数学基础之集合与函数](./contents/34.md)
 - [35、AI笔记: 数学基础之反函数和6个基本初等函数](./contents/35.md)
+- [36、AI笔记: 数学基础之直线、圆和方程](./contents/36.md)
 
 # 其他
 
