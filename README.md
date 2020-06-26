@@ -45,6 +45,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [39、AI笔记: 数学基础之角的概念和三角常用公式推导](./contents/39.md)
 - [40、AI笔记: 数学基础之平面向量](./contents/40.md)
 - [41、AI笔记: 数学基础之概率与统计](./contents/41.md)
+- [42、AI笔记: 数学基础之随机变量及其分布](./contents/42.md)
 
 # 其他
 
