@@ -43,6 +43,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [37、AI笔记: 数学基础之数列与不等式](./contents/37.md)
 - [38、AI笔记: 数学基础之排列与组合](./contents/38.md)
 - [39、AI笔记: 数学基础之角的概念和三角常用公式推导](./contents/39.md)
+- [40、AI笔记: 数学基础之平面向量](./contents/40.md)
 
 # 其他
 
