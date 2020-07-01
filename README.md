@@ -47,6 +47,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [41、AI笔记: 数学基础之概率与统计](./contents/41.md)
 - [42、AI笔记: 数学基础之随机变量及其分布](./contents/42.md)
 - [43、AI笔记: 数学基础之二项分布与二项式定理](./contents/43.md)
+- [44、AI笔记: 数学基础之数列的极限及其准则](./contents/44.md)
 
 # 其他
 
