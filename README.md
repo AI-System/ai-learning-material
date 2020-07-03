@@ -50,6 +50,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [44、AI笔记: 数学基础之数列的极限及其准则](./contents/44.md)
 - [45、AI笔记: 数学基础之函数的极限及自然常数e的由来](./contents/45.md)
 - [46、AI笔记: 数学基础之函数的导数应用及求导公式](./contents/46.md)
+- [47、AI笔记: 数学基础之导数的应用：单调性、凸凹性、极值](./contents/47.md)
 
 # 其他
 
