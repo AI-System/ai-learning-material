@@ -54,6 +54,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [48、AI笔记: 数学基础之导数的应用：求极值与最值](./contents/48.md)
 - [49、AI笔记: 数学基础之导数的应用：泰勒Taylor公式](./contents/49.md)
 - [50、AI笔记: 数学基础之泰勒Taylor公式的变形和应用](./contents/50.md)
+- [51、AI笔记: 数学基础之多元函数的概念和极限](./contents/51.md)
 
 # 其他
 
