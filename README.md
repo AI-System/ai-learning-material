@@ -58,6 +58,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [52、AI笔记: 数学基础之偏导数与方向导数](./contents/52.md)
 - [53、AI笔记: 数学基础之方向导数的计算和梯度](./contents/53.md)
 - [54、AI笔记: 数学基础之定积分的引例与定义](./contents/54.md)
+- [55、AI笔记: 数学基础之定积分的性质](./contents/55.md)
 
 # 其他
 
