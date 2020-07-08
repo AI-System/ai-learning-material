@@ -63,6 +63,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [21、AI笔记: 数学基础之定积分的引例与定义](./contents/math/21.md)
 - [22、AI笔记: 数学基础之定积分的性质](./contents/math/22.md)
 - [23、AI笔记: 数学基础之线性代数与矩阵](./contents/23.md)
+- [24、AI笔记: 数学基础之矩阵运算与行列式](./contents/24.md)
 
 # 其他
 
