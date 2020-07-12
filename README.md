@@ -67,6 +67,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [25、AI笔记: 数学基础之矩阵的初等变换](./contents/25.md)
 - [26、AI笔记: 数学基础之矩阵的初等变换计算矩阵的秩](./contents/26.md)
 - [27、AI笔记: 数学基础之向量组的线性表示与线性相关](./contents/27.md)
+- [28、AI笔记: 数学基础之齐次与非齐次线性方程组解的结构定理](./contents/28.md)
 
 # 其他
 
