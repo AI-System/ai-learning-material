@@ -70,6 +70,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [28、AI笔记: 数学基础之齐次与非齐次线性方程组解的结构定理](./contents/28.md)
 - [29、AI笔记: 数学基础之特征值与特征向量](./contents/29.md)
 - [30、AI笔记: 数学基础之正交矩阵与矩阵的QR分解](./contents/30.md)
+- [31、AI笔记: 数学基础之向量的导数与概率论](./contents/31.md)
 
 # 其他
 
