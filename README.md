@@ -71,6 +71,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [29、AI笔记: 数学基础之特征值与特征向量](./contents/29.md)
 - [30、AI笔记: 数学基础之正交矩阵与矩阵的QR分解](./contents/30.md)
 - [31、AI笔记: 数学基础之向量的导数与概率论](./contents/31.md)
+- [32、AI笔记: 数学基础之联合概率、条件概率与全概率公式](./contents/32.md)
 
 # 其他
 
