@@ -74,6 +74,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [32、AI笔记: 数学基础之联合概率、条件概率与全概率公式](./contents/32.md)
 - [33、AI笔记: 数学基础之贝叶斯公式(概率公式)](./contents/33.md)
 - [34、AI笔记: 数学基础之随机变量与常见离散型及其分布](./contents/34.md)
+- [35、AI笔记: 数学基础之柏松分布、几何分布、超几何分布](./contents/35.md)
 
 # 其他
 
