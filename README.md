@@ -78,6 +78,7 @@ AI 知识库 (Artificial Intelligence Knowledge Base)
 - [36、AI笔记: 数学基础之连续型与均匀分布、指数分布、正态分布等](./contents/36.md)
 - [37、AI笔记: 数学基础之数字特征-期望与方差](./contents/37.md)
 - [38、AI笔记: 数学基础之数字特征-标准差、协方差、相关系数、中心矩、原点矩、峰度、偏度](./contents/38.md)
+- [39、AI笔记: 数学基础之相关大数定理与参数估计方法-点估计、矩估计](./contents/39.md)
 
 # 其他
 
